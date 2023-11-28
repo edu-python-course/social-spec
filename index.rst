@@ -9,6 +9,17 @@ functionalities, including user authentication, content management, and REST
 API integration. The site allows for image sharing, user interactions, and
 profile management.
 
+Project goals
+-------------
+
+-   Provide a practical learning experience in building a feature-rich social
+    media platform using Django.
+-   Focus on user privacy and data management, reflecting real-world
+    application requirements.
+-   Encourage best practices in REST API design and implementation.
+-   Develop an understanding of user role management and administrative
+    controls within a web application.
+
 Key features
 ------------
 
