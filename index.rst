@@ -70,3 +70,18 @@ Connections
     from the connected user personal page.
 -   When users have a connection, they can see personal pages of each other,
     even in case some page is marked as "private".
+
+Personal page
+-------------
+
+The personal page is the gallery of images uploaded by a specific user.
+
+-   Authenticated users can upload new images to their gallery.
+-   Authenticated users can tag their images.
+-   Authenticated users can remove images from their gallery.
+-   Authenticated users can comment on images available for them.
+-   Authenticated users can change their personal page permissions
+    (e.g. make it public or private).
+-   Private galleries are not public available, any user must establish
+    the connection with the gallery owner to obtain access to private
+    gallery.
