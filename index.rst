@@ -48,3 +48,13 @@ Once the request is approved by the target user, the connection is established.
 Site admins cannot delete anything from the site. However admins can mark any
 image uploaded to the site as "deleted", or block (deactivate) any registered
 account.
+
+User registration and authentication
+------------------------------------
+
+-   For anonymous users there will be "Sign Up" and "Sign In" options available
+    on each page.
+-   For authenticated users "Logout" option is available from any site page.
+-   Deactivated users cannot log in and mainly acts as anonymous users.
+-   Deactivated users will receive a link to request the account restore from
+    site admins.
