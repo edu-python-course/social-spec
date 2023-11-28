@@ -85,3 +85,10 @@ The personal page is the gallery of images uploaded by a specific user.
 -   Private galleries are not public available, any user must establish
     the connection with the gallery owner to obtain access to private
     gallery.
+
+Notifications
+-------------
+
+-   Notification should be available from any place of the site.
+-   When user uploads a new image, a notification is sent to all their
+    connections.
