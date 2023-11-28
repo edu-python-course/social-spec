@@ -58,3 +58,15 @@ User registration and authentication
 -   Deactivated users cannot log in and mainly acts as anonymous users.
 -   Deactivated users will receive a link to request the account restore from
     site admins.
+
+Connections
+-----------
+
+-   Authenticated users can review their connection with other users
+    on the "Connections" page.
+-   Authenticated users may send a connection request to each other.
+    Incomming requests are available on a connections page.
+-   Existing connections may be removed from the connections page, or
+    from the connected user personal page.
+-   When users have a connection, they can see personal pages of each other,
+    even in case some page is marked as "private".
