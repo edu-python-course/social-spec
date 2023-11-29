@@ -107,3 +107,9 @@ Notifications
 -   Notification should be available from any place of the site.
 -   When user uploads a new image, a notification is sent to all their
     connections.
+
+Direct messages
+---------------
+
+-   Authenticated users can send direct messages to each other, unless they
+    aren't blocked by a message recepient.
