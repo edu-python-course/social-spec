@@ -71,6 +71,8 @@ User registration and authentication
     site admins.
 -   Banned users (temporary deactivated) should see the ban timer on login
     atempt.
+-   Authenticated users will be logout after being inactive for certain time.
+-   Admins should not be logout, regardless of activity.
 
 Connections
 -----------
