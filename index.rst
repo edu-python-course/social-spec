@@ -113,3 +113,9 @@ Direct messages
 
 -   Authenticated users can send direct messages to each other, unless they
     aren't blocked by a message recepient.
+
+API
+---
+
+-   Project will implement REST API to provide **all** its functionality via
+    API endpoints.
