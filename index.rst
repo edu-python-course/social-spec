@@ -49,6 +49,17 @@ Site admins cannot delete anything from the site. However admins can mark any
 image uploaded to the site as "deleted", or block (deactivate) any registered
 account.
 
+Site administration functions
+-----------------------------
+
+-   Admin can remove any image uploaded to the site. The removal reason is
+    required. Removed image are not to be deleted; images of this kind just
+    become unavailable for other users.
+-   Admin can deactivate any registered user, except other admins. Deactivation
+    reason is required.
+-   Admin can ban (temporary deactivate) anu registered user, except other
+    admins. Deactivation reason and activation time should be provided.
+
 User registration and authentication
 ------------------------------------
 
@@ -58,6 +69,8 @@ User registration and authentication
 -   Deactivated users cannot log in and mainly acts as anonymous users.
 -   Deactivated users will receive a link to request the account restore from
     site admins.
+-   Banned users (temporary deactivated) should see the ban timer on login
+    atempt.
 
 Connections
 -----------
